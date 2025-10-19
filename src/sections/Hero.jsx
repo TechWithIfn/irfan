@@ -58,7 +58,7 @@ function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            👋 Hello, I'm
+            👋 Hello Ji, I'm
           </motion.p>
 
           {/* Name */}
